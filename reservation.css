@@ -1,0 +1,9 @@
+body {
+    background-color: lightsalmon;
+}
+main {
+    display: flex;
+    flex-direction: column;
+    margin-left: 20vw;
+    margin-right: 20vw;
+}
